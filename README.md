@@ -23,7 +23,7 @@ Focus on your AI Agent backend, we handle the rest for you.
     <img src="https://img.shields.io/badge/License-Apache 2.0-blue.svg" alt="License version">
 </a>
 <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Under Active Development-orange.svg" alt="Docker Image CI">
+    <img src="https://img.shields.io/badge/Discontinued-orange.svg" alt="Docker Image CI">
 </a>
 </p>
 
